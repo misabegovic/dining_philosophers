@@ -1,0 +1,22 @@
+[
+  {
+    "directory": "/home/muhamed/projects/dining_philosophers/build",
+    "command": "c++ -Idining_philosophers.p -I. -I.. -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -Wextra -Wpedantic -std=c++14 -g -MD -MQ dining_philosophers.p/main.cpp.o -MF dining_philosophers.p/main.cpp.o.d -o dining_philosophers.p/main.cpp.o -c ../main.cpp",
+    "file": "../main.cpp"
+  },
+  {
+    "directory": "/home/muhamed/projects/dining_philosophers/build",
+    "command": "c++ -Idining_philosophers.p -I. -I.. -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -Wextra -Wpedantic -std=c++14 -g -MD -MQ dining_philosophers.p/src_chopsticks_behaviors_Available.cpp.o -MF dining_philosophers.p/src_chopsticks_behaviors_Available.cpp.o.d -o dining_philosophers.p/src_chopsticks_behaviors_Available.cpp.o -c ../src/chopsticks/behaviors/Available.cpp",
+    "file": "../src/chopsticks/behaviors/Available.cpp"
+  },
+  {
+    "directory": "/home/muhamed/projects/dining_philosophers/build",
+    "command": "c++ -Idining_philosophers.p -I. -I.. -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -Wextra -Wpedantic -std=c++14 -g -MD -MQ dining_philosophers.p/src_chopsticks_behaviors_Taken.cpp.o -MF dining_philosophers.p/src_chopsticks_behaviors_Taken.cpp.o.d -o dining_philosophers.p/src_chopsticks_behaviors_Taken.cpp.o -c ../src/chopsticks/behaviors/Taken.cpp",
+    "file": "../src/chopsticks/behaviors/Taken.cpp"
+  },
+  {
+    "directory": "/home/muhamed/projects/dining_philosophers/build",
+    "command": "c++ -Idining_philosophers.p -I. -I.. -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -Wextra -Wpedantic -std=c++14 -g -MD -MQ dining_philosophers.p/src_philosophers_Philosopher.cpp.o -MF dining_philosophers.p/src_philosophers_Philosopher.cpp.o.d -o dining_philosophers.p/src_philosophers_Philosopher.cpp.o -c ../src/philosophers/Philosopher.cpp",
+    "file": "../src/philosophers/Philosopher.cpp"
+  }
+]
