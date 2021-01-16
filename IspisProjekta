@@ -1,0 +1,22 @@
+command: ./build/dining_philosophers
+output:
+chopstick ids are: 5 6 7 8 9
+Hume starts to think
+Kant starts to think
+Plato starts to think
+Descartes starts to think
+Nietzsche starts to think
+Hume has picked up chopsticks with IDs 6 and 7 and starts to eat
+Nietzsche has picked up chopsticks with IDs 8 and 9 and starts to eat
+Hume puts down his chopsticks and starts to think
+Nietzsche puts down his chopsticks and starts to think
+Kant has picked up chopsticks with IDs 7 and 8 and starts to eat
+Plato has picked up chopsticks with IDs 5 and 6 and starts to eat
+Kant puts down his chopsticks and starts to think
+Nietzsche has picked up chopsticks with IDs 8 and 9 and starts to eat
+Plato puts down his chopsticks and starts to think
+Hume has picked up chopsticks with IDs 6 and 7 and starts to eat
+Nietzsche puts down his chopsticks and starts to think
+Descartes has picked up chopsticks with IDs 9 and 5 and starts to eat
+^C
+
